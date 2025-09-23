@@ -1,0 +1,5 @@
+file://C:\music\main playlist\Infected Mushroom - I Wish (Acoustic Live Remix).m4a	Unsupported format or corrupted file (duplicate moov box)	133858276898342287
+file://C:\music\main playlist\Infected Mushroom - I Wish (Acoustic Live Remix).m4a	Unsupported format or corrupted file (duplicate moov box)	133861464096159386
+file://C:\music\main playlist\Infected Mushroom - Special Place.m4a	Unsupported format or corrupted file (moov box not found)	133980601027916961
+file://C:\music\main playlist	file not found	134012871507157113
+file://C:\music\main playlist\Infected Mushroom - Special Place.m4a	Unsupported format or corrupted file (moov box not found)	134017428591191790
